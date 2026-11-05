@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rakesh 👋
 
-<!--
-**Rakesh048del/Rakesh048del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-Year Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+I'm an ECE student interested in analog IC design, CMOS circuits, VLSI, and semiconductor technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+- Analog IC Design
+- CMOS Circuit Design
+- Analog Layout
+- Mixed-Signal Design
+- Semiconductor Technology
+
+## Tools & Technologies
+- LTspice IV – Analog Circuit Simulation
+- Electric VLSI Design System – IC Layout
+- Flash Magic – Microcontroller Programming
+
+## Projects
+- CMOS Inverter Design and Layout
+- CMOS NAND and NOR Gates
+- CMOS Current Mirrors
+- Common-Source Amplifier
+- CMOS Differential Pair
+
+## Career Goal
+Seeking opportunities in analog IC design, analog layout, and semiconductor engineering.
+
+## Connect With Me
+- GitHub: https://github.com/Rakesh048del
+
